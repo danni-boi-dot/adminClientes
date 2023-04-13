@@ -39,7 +39,7 @@ export function loader() {
       empresa: 'Codigo Con Juan'
     },
   ];
-  return clientes
+  return clientes;
 }
 
 const Casita = () => {
