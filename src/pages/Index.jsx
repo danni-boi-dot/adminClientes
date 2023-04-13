@@ -7,6 +7,7 @@ export function loader() {
     return clientes
 }
 
+
 function Index() {
   const clientes = useLoaderData();
   return (
