@@ -2,47 +2,11 @@
   "clientes": [
     {
       "nombre": "Nea",
-      "empresa": "Codigo Con Juan",
-      "email": "juan@juan.com",
-      "telefono": "34525345634",
-      "notas": "twitch",
+      "empresa": "Arquitectura",
+      "email": "nea@gmail.com",
+      "telefono": "73542398",
+      "notas": "Twitch\ny arquitecta de 26 años\n",
       "id": 1
-    },
-    {
-      "id": 2,
-      "nombre": "Karen",
-      "telefono": 138198313,
-      "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 3,
-      "nombre": "Josue",
-      "telefono": 31983913,
-      "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 4,
-      "nombre": "Miguel",
-      "telefono": 319381983,
-      "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 5,
-      "nombre": "Pedro",
-      "telefono": 1398198938,
-      "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "nombre": "Dani",
-      "empresa": "spotify",
-      "email": "adtdaniel87@gmail.com",
-      "telefono": "5568632588",
-      "notas": "programador",
-      "id": 6
     }
   ]
 }
