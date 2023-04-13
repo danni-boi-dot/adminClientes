@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Cliente() {
+function Cliente({cliente}) {
 
     const { nombre, empresa, email, telefono, id } = cliente
     return (
