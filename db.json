@@ -1,11 +1,12 @@
 {
   "clientes": [
     {
-      "id": 1,
-      "nombre": "Juan",
-      "telefono": 102013313,
+      "nombre": "Nea",
+      "empresa": "Codigo Con Juan",
       "email": "juan@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "34525345634",
+      "notas": "twitch",
+      "id": 1
     },
     {
       "id": 2,
@@ -40,7 +41,7 @@
       "empresa": "spotify",
       "email": "adtdaniel87@gmail.com",
       "telefono": "5568632588",
-      "notas": "me la pelan todos",
+      "notas": "programador",
       "id": 6
     }
   ]
